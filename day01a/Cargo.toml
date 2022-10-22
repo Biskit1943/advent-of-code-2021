@@ -1,0 +1,7 @@
+[package]
+name = "day01a"
+version = "0.1.0"
+authors = ["Maximilian Konter <maximilian.konter@protonmail.com>"]
+edition = "2021"
+
+[dependencies]
